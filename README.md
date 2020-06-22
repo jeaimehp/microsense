@@ -1,6 +1,9 @@
 # µSense
 Heltec Wifi LoRa 32 v2 with BME680 attached that collects data and sends it to The Things Network over LoRa.
 
+| Device      | Fritzing      |
+|------------|-------------|
+| <img src="images/microsense-ttn-thingspeak.JPG" width="250"> | <img src="images/microsense-ttn-thingspeak.JPG" width="250"> |
 
 # Capsule Hackathon Project information (capsulehack.io)
 
