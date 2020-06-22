@@ -1,0 +1,14 @@
+function Decoder(bytes, port) {
+  var temperature = (bytes[0] << 8) | bytes[1];
+  var humidity = (bytes[2] << 8) | bytes[3];
+  var pressure = (bytes[4] << 8) | bytes[5];
+  var gas = (bytes[6] << 8) | bytes[7];
+
+  return {
+    field4: temperature /100,
+    field2: humidity /100,
+    field3: pressure /100,
+    field1: gas / 100
+  }
+  
+}
