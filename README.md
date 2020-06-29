@@ -1,4 +1,5 @@
-# µSense
+# µSense 
+## [Update: 2nd Place Winner at the Capsule Hackathon! -- https://static1.squarespace.com/static/5de1595ff5155d068a3bb52b/t/5ef8d26761489c0a0232d86a/1593365111373/CAPSULE_Impact_Report_June_2020.pdf]
 Heltec Wifi LoRa 32 v2 with BME680 attached that collects data and sends it to The Things Network over LoRa.
 
 Thing Speak Channel URL: https://thingspeak.com/channels/1086343
