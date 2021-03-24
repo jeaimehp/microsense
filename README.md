@@ -10,6 +10,8 @@ Thing Speak Channel URL: https://thingspeak.com/channels/1086343
 # Capsule Hackathon Project information (capsulehack.io)  
 **[Update: 2nd Place Winner at the Capsule Hackathon! -- https://static1.squarespace.com/static/5de1595ff5155d068a3bb52b/t/5ef8d26761489c0a0232d86a/1593365111373/CAPSULE_Impact_Report_June_2020.pdf]**
 
+**Capsule Project Site -- https://www.capsulehack.io/capsule-dashboard/microsense**
+
 The human senses provide methods to both observe and understand the world around you. Through the use of IoT technology and sensors, those observations can be collected and analyzed to develop data-based understanding of your world. µSense (pronounced micro-sense) will be a low-cost, opensource, open-data, and open-hardware device that will utilize the capabilities of a Lora enabled microcontroller device coupled with an atmospheric sensor to monitor the environmental conditions in a micro-climate. The platform will target temperature, relative humidity, pressure, and air quality initially using the BME680 sensor. The monitored location could range from an indoor room to an outside public space. The power of the device comes from the low barrier to entry nature of the project. It will allow interested persons to easily create and deploy devices in a DIY format.
 
 ## Project Roadmap
